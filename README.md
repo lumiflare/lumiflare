@@ -6,7 +6,6 @@
 🛠️ **Stacks**
 
 **backend**
-
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -20,8 +19,8 @@
 
 **infra**
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img width="60" height="60" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/6cce5c92-81a7-4871-b838-a33e9a792f5d" />
-<img width="60" height="60" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/1043eac8-0719-4b03-b3c3-87cb92028a86" />
+<img width="40" height="40" alt="aws-certified-solutions-architect-associate (1)" src="https://github.com/user-attachments/assets/62f83007-32dc-4edf-969c-bf66cc32ddb5" />
+<img width="40" height="40" alt="aws-certified-cloud-practitioner (1)" src="https://github.com/user-attachments/assets/355b6732-c41c-40fa-926c-d63b2cd5ab38" />
 
 
 
