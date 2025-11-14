@@ -15,7 +15,7 @@
 
 **infra**
 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=aws&logoColor=white"/> <img width="30" height="30" alt="aws-certified-cloud-practitioner (1)" src="https://github.com/user-attachments/assets/355b6732-c41c-40fa-926c-d63b2cd5ab38" /> <img width="30" height="30" alt="aws-certified-solutions-architect-associate (1)" src="https://github.com/user-attachments/assets/62f83007-32dc-4edf-969c-bf66cc32ddb5" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img width="30" height="30" alt="aws-certified-cloud-practitioner (1)" src="https://github.com/user-attachments/assets/355b6732-c41c-40fa-926c-d63b2cd5ab38" /> <img width="30" height="30" alt="aws-certified-solutions-architect-associate (1)" src="https://github.com/user-attachments/assets/62f83007-32dc-4edf-969c-bf66cc32ddb5" />
 
 
 
