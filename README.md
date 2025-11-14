@@ -1,11 +1,11 @@
 ## Hi there 👋
 
+**I'm a developer who hopes everyone in the world becomes happier.**
 
 
-1年目の時に書いた記事がGoogle検索順位１位になっていた！！🥳
-<img width="1029" alt="Laravelユニーク制約" src="https://github.com/user-attachments/assets/a00e7d27-9769-4384-a378-21bb37b9a648" />
+🛠️ Stacks
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumiflare&layout=compact)](https://github.com/lumiflare/github-readme-stats)
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{lumiflare}?pet-id=1" width="1000" height="120"/>
