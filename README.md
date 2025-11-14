@@ -7,7 +7,7 @@
 
 **backend**
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
