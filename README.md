@@ -20,8 +20,10 @@
 
 **infra**
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="40493b84-9bb4-4010-9852-0683b114cea0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8608edff-6b15-44a2-8038-e61a8dd70322" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img width="60" height="60" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/6cce5c92-81a7-4871-b838-a33e9a792f5d" />
+<img width="60" height="60" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/1043eac8-0719-4b03-b3c3-87cb92028a86" />
+
+
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{lumiflare}?pet-id=1" width="1000" height="120"/>
