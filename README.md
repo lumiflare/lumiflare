@@ -19,9 +19,11 @@
 
 
 ### 🧸 Projects
+
 [Backend development of a café kiosk system](https://github.com/shim-flare-lab/flare-cafe)
 
 ### Certificates
+
 <img width="50" height="50" alt="aws-certified-cloud-practitioner (1)" src="https://github.com/user-attachments/assets/355b6732-c41c-40fa-926c-d63b2cd5ab38" /> <img width="50" height="50" alt="aws-certified-solutions-architect-associate (1)" src="https://github.com/user-attachments/assets/62f83007-32dc-4edf-969c-bf66cc32ddb5" />
 
 
