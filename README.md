@@ -20,10 +20,13 @@
 
 ### 🧸 Projects
 
-[Backend development of a café kiosk system](https://github.com/shim-flare-lab/flare-cafe)
+[Backend development of a café kiosk system (on progressing)](https://github.com/shim-flare-lab/flare-cafe) 
 
 
 ### 🤓  VibeCoding
+
+[jobcan auto click](https://github.com/lumiflare/jobcan_auto_click)
+
 
 ### Certificates
 
