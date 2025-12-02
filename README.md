@@ -26,6 +26,7 @@
 ### 🤓  VibeCoding
 
 [jobcan auto click](https://github.com/lumiflare/jobcan_auto_click)
+
 [python slide maker](https://github.com/lumiflare/python-slide-maker)
 
 
