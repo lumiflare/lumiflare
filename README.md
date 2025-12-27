@@ -22,13 +22,13 @@
 
 [Backend development of a café kiosk system (on progressing)](https://github.com/shim-flare-lab/flare-cafe) 
 
-
 ### 🤓  VibeCoding
 
 [jobcan auto click](https://github.com/lumiflare/jobcan_auto_click)
 
 [python slide maker](https://github.com/lumiflare/python-slide-maker)
 
+[learn claude code sub-agent and skills](https://github.com/lumiflare/ppt-agent-orchestrator)
 
 ### Certificates
 
