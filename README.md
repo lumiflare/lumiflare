@@ -24,9 +24,9 @@
 
 ### 🤓  VibeCoding
 
-[jobcan auto click](https://github.com/lumiflare/jobcan_auto_click)
+[trend-it-post-crawler](https://github.com/lumiflare/trend-it-post-crawler)
 
-[python slide maker](https://github.com/lumiflare/python-slide-maker)
+[jobcan auto click](https://github.com/lumiflare/jobcan_auto_click)
 
 [learn claude code sub-agent and skills](https://github.com/lumiflare/ppt-agent-orchestrator)
 
