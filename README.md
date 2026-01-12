@@ -20,6 +20,8 @@
 
 ### 🧸 Projects
 
+[laravel-ddd-boilerplate](https://github.com/lumiflare/laravel-ddd-boilerplate)
+
 [Backend development of a café kiosk system (on progressing)](https://github.com/shim-flare-lab/flare-cafe) 
 
 ### 🤓  VibeCoding
